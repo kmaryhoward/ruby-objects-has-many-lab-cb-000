@@ -26,5 +26,5 @@ class Author
     @@posts.length
   end
 
-  
+
 end
