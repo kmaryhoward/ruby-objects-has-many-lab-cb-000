@@ -19,3 +19,5 @@ class Post
       nil
   end
 end
+
+end
